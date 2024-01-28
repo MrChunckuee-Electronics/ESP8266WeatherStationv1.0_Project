@@ -4,7 +4,7 @@ Estacion metereologica
 ***
 Puedes seguirme en:
 - [Blogspot](http://mrchunckuee.blogspot.com)
-- [Facebook](https://www.facebook.com/ElectronicayRobotica)
+- [Instagram](https://www.instagram.com/mrchunckuee_electronics/)
+- [Facebook](https://www.facebook.com/MrChunckueeElectronics)
 - [Twitter](https://twitter.com/MrChunckuee)
-- [GitHub](https://github.com/MrChunckuee)
-- [YouTube](https://www.youtube.com/user/mrchunckueepsr)
+- [YouTube](https://www.youtube.com/@MrChunckueeElectronics)
